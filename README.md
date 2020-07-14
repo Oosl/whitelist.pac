@@ -1,5 +1,7 @@
-# 概述
-原作者是[破娃酱](https://github.com/breakwa11)，这个是自己使用的白名单pac文件，不定时更新常见域名
+# 概述 
+>三改！原作者是[MatcherAny](https://github.com/MatcherAny)，我仅在他的基础上更改本地代理端口为7890（Clash For Windows默认） 
+
+原原作者是[破娃酱](https://github.com/breakwa11)，这个是自己使用的白名单pac文件，不定时更新常见域名
 详细使用方法可以查看 https://github.com/breakwa11/gfw_whitelist
 
 # 代理设置方法
@@ -19,3 +21,4 @@
 
 ### 1.3 选择auto white情景模式
 ![chrome-5](/img/chrome-5.png)
+
